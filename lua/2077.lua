@@ -76,6 +76,4 @@ function G.colorscheme()
 	set(0, "Error", { fg = colors.error, bold = true })
 end
 
-G.colorscheme()
-
 return G
