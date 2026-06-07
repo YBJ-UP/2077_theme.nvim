@@ -18,12 +18,14 @@ require("2077").colorscheme()
 
 # Screenshots:
 
+![Preview without any other plugins](media/pluginless-preview.png)
+
 ![Preview using nvim-tree](media/nvim-tree_ppreview.png)
 
-![Preview with a floating terminal](media/terminal_preview.png)
+![Preview with a floating terminal](media/terminal-preview.png)
 
-![Preview of what substituting looks like](media/substitute_preview.png)
+![Preview of what substituting looks like](media/substitute-preview.png)
 
-![Preview of search results](media/search_preview.png)
+![Preview of search results](media/search-preview.png)
 
-![Preview of mini.pick](media/mini-pick_preview.png)
+![Preview of mini.pick](media/mini_pick-preview.png)
