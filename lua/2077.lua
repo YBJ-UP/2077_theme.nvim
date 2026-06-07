@@ -48,7 +48,7 @@ function G.colorscheme()
 	set(0, "Substitute", { bg = "none", fg = colors.special })
 	set(0, "IncSearch", { bg = "none", fg = colors.warn })
 	set(0, "CurSearch", { bg = "none", fg = colors.warn })
-	set(0, "Search", { bg = colors.visual, fg = colors.warn })
+	set(0, "Search", { bg = "none" , fg = colors.warn })
 
 	set(0, "CursorLine", { bg = colors.cursorLine })
 	set(0, "Visual", { bg = colors.visual })
