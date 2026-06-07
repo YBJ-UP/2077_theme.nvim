@@ -30,6 +30,7 @@ function G.colorscheme()
 	set(0, "NormalNc", { bg = colors.bg_unfocused, fg = colors.fg_unfocused })
 
 	set(0, "ColorColumn", { bg = colors.cursorLine })
+	set(0, "Cursor", { bg = colors.fg, fg = colors.bg })
 
 	set(0, "NormalFloat", { bg = "black" })
 	set(0, "FloatBorder", { bg = "black", fg = colors.fg })
