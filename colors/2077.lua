@@ -1,1 +1,1 @@
-require("lua.scheme").colorscheme()
+require("scheme").colorscheme()
