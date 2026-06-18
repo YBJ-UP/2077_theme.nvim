@@ -1,4 +1,4 @@
-local colors = require("palette")
+local colors = require("2077_palette")
 
 local G = {}
 
