@@ -2,7 +2,7 @@ local colors = require("palette")
 
 local G = {}
 
-function G.colorscheme()
+function G.set_2077_scheme()
 	vim.cmd("highlight clear")
 	vim.cmd("syntax reset")
 
